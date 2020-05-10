@@ -1,0 +1,14 @@
+{
+  "name": "GitHub",
+  "version": "1.0.0",
+  "description": " A discord bot",
+  "main": "index.js",
+  "author": "AsuSukey",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.5.1"
+  }
+}
